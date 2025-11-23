@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+  <xpath>Defs/ThingDef[defName="Skullspike"]/graphicData/graphicClass</xpath>
+		<value>
+			<graphicClass>Graphic_Multi</graphicClass>
+		</value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Skullspike"]/rotatable</xpath>
+    <value>
+        <rotatable>true</rotatable>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd" MayRequire="Ludeon.RimWorld.Ideology">
+    <xpath>Defs/ThingDef[defName="Skullspike"]/statBases</xpath>
+    <value>
+      <StyleDominance>5</StyleDominance>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd" MayRequire="Ludeon.RimWorld.Ideology">
+    <xpath>Defs/ThingDef[defName="Skullspike"]</xpath>
+    <value>
+      <dominantStyleCategory>Morbid</dominantStyleCategory>
+    </value>
+  </Operation>
+</Patch>

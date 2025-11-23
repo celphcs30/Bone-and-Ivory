@@ -1,0 +1,24 @@
+# RimWorld mod cache files
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
