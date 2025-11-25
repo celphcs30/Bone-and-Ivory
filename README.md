@@ -38,22 +38,22 @@ Drop `CelphIvoryAndSkulls` folder into RimWorld `Mods` directory.
 
 ## Changelog
 
-### 1.6 Update (celph30)
+### 1.6 Update (celphcs30)
 - Updated for RimWorld 1.6
 - Fixed XML syntax errors
 - Added Morbid style dominance to all items
 - Made all walls/floors paintable
 - Bone wall: drag placement, 500 HP, Beauty 4
 - Fixed deprecated properties
-- Updated packageId to `celph30.BoneAndIvory`
+- Updated packageId to `celphcs30.BoneAndIvory`
 
 ## Technical
 
-- **Package ID**: `celph30.BoneAndIvory`
+- **Package ID**: `celphcs30.BoneAndIvory`
 - **Type**: XML-only content mod
 - **License**: CC0-1.0 (Public Domain)
 
 ## Credits
 
 - Original: Homeless Emperor (She Wants Revenge)
-- Updated: celph30
+- Updated: celphcs30
