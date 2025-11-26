@@ -12,7 +12,7 @@
 	  <color>(0.7, 0.7, 0.7)</color>
       <linkType>CornerFiller</linkType>
       <linkFlags>
-        <li>Wall</li>
+        <li>Custom10</li>
       </linkFlags>
       <damageData>
         <cornerTL>Damage/Corner</cornerTL>
