@@ -30,5 +30,18 @@
 		Walls crafted entirely from skulls, striking fear into the hearts of onlookers.
 
 
+		[h1]Mod Settings[/h1]
+		Customize crafting costs and materials in Mod Settings:
+		[list]
+		[*] Toggle between skulls or stone blocks for walls
+		[*] Toggle between skulls or stone blocks for floors
+		[*] Adjustable costs (1-20) for all materials
+		[*] Separate cost controls for walls, bone floor, fine floor, and pathway
+		[*] Stone block floors support material selection menu (like vanilla stone tiles)
+		[*] Skull spikes remain unchanged (always use skulls + stuff)
+		[/list]
+		Note: Floor changes require exiting to main menu or restarting the game to take effect.
+
+
 		Explore the depths of your morbid creativity with Bone and Ivory.</description>
   </ModMetaData>
