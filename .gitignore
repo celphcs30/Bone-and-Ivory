@@ -1,22 +1,68 @@
-# RimWorld mod cache files
-*.cache
+# Build results
+[Oo]bj/
+[Bb]in/
+# Assemblies/ - commented out: we want to include compiled DLLs for users to download
+*.dll
+*.pdb
+*.exe
+# But allow Assemblies folder specifically
+!Assemblies/
+!Assemblies/*.dll
+!Assemblies/*.pdb
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Harmony DLL (should be obtained separately)
+Source/0Harmony.dll
 
 # Temporary files
 *.tmp
 *.temp
 *~
-
-# OS files
 .DS_Store
 Thumbs.db
 desktop.ini
 
+# RimWorld mod cache files
+*.cache
+
 # IDE files
-.vs/
 .vscode/
 *.swp
 *.swo
-*~
 
 # Backup files
 *.bak

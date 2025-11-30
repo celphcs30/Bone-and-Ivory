@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Floor_Skull</defName>
+    <label>bone floor</label>
+  </DesignatorDropdownGroupDef>
+  
+  <DesignatorDropdownGroupDef>
+    <defName>Floor_SkullFine</defName>
+    <label>skull fine floor</label>
+  </DesignatorDropdownGroupDef>
+  
+  <DesignatorDropdownGroupDef>
+    <defName>Floor_SkullPathway</defName>
+    <label>skull pathway</label>
+  </DesignatorDropdownGroupDef>
+
+</Defs>
+
