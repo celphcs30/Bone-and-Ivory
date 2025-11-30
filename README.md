@@ -45,7 +45,7 @@ Customize crafting costs and materials via Mod Settings:
 
 ## Compatibility
 
-- RimWorld 1.6, 1.5
+- RimWorld 1.6
 - Ideology DLC recommended (for style features)
 - Combat Extended compatible (500 HP walls)
 
